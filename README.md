@@ -40,8 +40,6 @@ The project root should be organized as:
 [ROOT]
 ├── TCPN-F/
 │   ├── main.py
-│   ├── TCPN_F_Rainfall.py
-│   ├── TCPN_F_Track.py
 │   ├── visualize.py
 │   └── problem_identity_cases/
 ├── TCP-Diffusion/
