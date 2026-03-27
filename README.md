@@ -1,4 +1,4 @@
-# TCPNet-Framework
+# TCPBench-Framework
 
 A minimal unified pipeline for tropical cyclone **rainfall** and **track** prediction.
 
@@ -78,7 +78,7 @@ TropiCycloneNet-Model/scripts/model_save/best/
 * modify the path of dataset for the track in line 40:
 
 ```
-TCPN-Framework\TropiCycloneNet-main\scripts\TCPN_F_Track.py
+-Framework\TropiCycloneNet-main\scripts\TCPN_F_Track.py
 ```
 
 * Confirm that `run_track()` works independently
@@ -119,7 +119,7 @@ Visualization results are saved to:
 ```
 TCPN-F/problem_identity_cases/
 ```
-![Framework Overview](https://github.com/xiaochengfuhuo/TCPNet-Framework/blob/main/TCPN-F/problem_identity_cases/ZETA2020102700.png)
+![Framework Overview](https://github.com/xiaochengfuhuo/TCPBench-Framework/blob/main/TCPN-F/problem_identity_cases/ZETA2020102700.png)
 
 ---
 
